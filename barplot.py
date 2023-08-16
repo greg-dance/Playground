@@ -1,3 +1,4 @@
+
 # Goal: to show the average tip amount by day of week as a percentage of the total bill
 
 # Import the modules

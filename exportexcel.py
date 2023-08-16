@@ -1,3 +1,5 @@
+
+# Goal: export the sample dataset to an excel file for future use
 import seaborn as sns
 import pandas as pd
 

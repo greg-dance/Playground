@@ -1,3 +1,4 @@
+
 # Goal: to visualize the effects of time of day on tips
 
 # Import the modules

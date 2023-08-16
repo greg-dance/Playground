@@ -1,5 +1,5 @@
-# Goal: To import the sample dataset, export it as xlsx. Visualize the tips by total bill and sex of customer
 
+# Goal: To import the sample dataset. Visualize the tips by total bill and sex of customer
 # Import the modules
 import seaborn as sns
 import matplotlib.pyplot as plt
