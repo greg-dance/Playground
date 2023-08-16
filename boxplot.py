@@ -1,4 +1,6 @@
-#import the modules
+# Goal: to visualize the effects of time of day on tips
+
+# Import the modules
 import seaborn as sns
 import matplotlib.pyplot as plt
 #this is for the read_excel method
@@ -7,7 +9,7 @@ import pandas as pd
 # Import the sample data from excel
 tips = pd.read_excel("tips_dataset.xlsx")
 
-#make it look nice
+# Make it look nice
 sns.set_style("darkgrid")
 
 # Create a box plot using Seaborn

@@ -1,4 +1,5 @@
-# Goal is to show the average tip amount by day of week as a percentage of the total bill
+# Goal: to show the average tip amount by day of week as a percentage of the total bill
+
 # Import the modules
 import seaborn as sns
 import matplotlib.pyplot as plt
